@@ -37,7 +37,7 @@ los archivos en el servidor (si se quiere cambiar tambien tienes que cambiar el 
 El servidor posee un delay de aprox. 20 segundos. :/
 
 <br />
-## Imagen
+<b>Demo:</b>
 <br><br>
 <p align="center">
   <img width="300" src="https://github.com/TakuSemba/RtmpPublisher/raw/master/arts/sample.gif">
