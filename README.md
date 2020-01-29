@@ -36,7 +36,7 @@ los archivos en el servidor (si se quiere cambiar tambien tienes que cambiar el 
 <br><br>
 El servidor posee un delay de aprox. 20 segundos. :/
 
-<br>
+<br />
 ## Imagen
 <br><br>
 <p align="center">
