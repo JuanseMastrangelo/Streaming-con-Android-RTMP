@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/server-nginx-green)
+![](https://img.shields.io/badge/download-47-green)
+![](https://img.shields.io/github/issues/JuanseMastrangelo/Streaming-con-Android-RTMP)
+![](https://img.shields.io/github/stars/JuanseMastrangelo/Streaming-con-Android-RTMP)
+
 # S T R E A M I N G -> ANDROID + RTMP
 
 Servidor (nginx) y cliente (Android) en español
